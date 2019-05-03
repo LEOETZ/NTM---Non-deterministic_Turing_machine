@@ -1,0 +1,403 @@
+tr
+30 a b S 60
+47 a a S 46
+45 a b S 29
+22 b b S 65
+23 b b L 17
+16 b b S 42
+20 a b L 56
+9 b a S 7
+23 a a L 28
+28 a a L 54
+2 b a L 8
+14 a a L 9
+41 a b L 19
+35 a b S 28
+29 a b S 5
+59 a a L 9
+62 b a S 54
+2 _ a S 35
+35 b a S 47
+53 b b S 4
+49 b a L 9
+40 b b S 41
+26 b a L 37
+46 a a S 23
+34 a b S 5
+2 b a S 26
+66 b a L 3
+55 a b L 5
+40 b _ L 36
+50 a b S 42
+36 a b L 1
+56 b b L 57
+29 a a L 44
+40 b b L 28
+18 a b L 36
+64 a a L 61
+17 a b L 13
+2 a a S 64
+52 b b L 38
+34 a b S 33
+23 a a L 22
+34 b a S 15
+27 a b L 11
+41 b b S 50
+11 b a L 47
+19 a b L 17
+14 b a S 7
+57 a b S 49
+52 a a L 23
+65 b b L 7
+19 b b L 27
+53 b b L 21
+42 b a L 34
+54 a a L 16
+36 a b L 37
+26 a a S 67
+11 b b S 23
+11 b b L 32
+58 b b S 16
+11 b b L 15
+18 b b L 43
+50 b b L 25
+3 b a S 35
+2 b a L 0
+6 a a S 60
+10 a a L 7
+40 b a L 7
+37 b b L 16
+21 b b L 43
+57 b b S 60
+12 a a S 29
+20 a b L 36
+3 a a L 57
+52 a a S 51
+41 b a S 25
+16 b a L 1
+16 b b S 53
+11 a b S 28
+4 b _ L 46
+47 b a L 11
+54 a a L 56
+35 b a S 65
+29 a b S 65
+12 b a S 21
+30 a a L 66
+27 b a S 60
+51 _ b L 48
+17 a b L 14
+42 a b L 34
+5 b a S 66
+2 b b L 4
+28 a b S 4
+4 b b L 24
+21 a a L 54
+64 b a L 15
+40 b b S 14
+30 b a S 1
+44 b b L 48
+15 a a S 31
+29 b b L 31
+25 a _ L 9
+58 a b S 53
+19 a a S 34
+24 a a L 50
+0 a b L 37
+19 a a S 58
+22 b b S 12
+20 a b S 7
+59 b b S 58
+5 a b S 67
+15 b b L 1
+45 b a L 48
+2 b a S 27
+66 a a L 16
+35 b a S 4
+10 a b S 14
+31 _ a L 9
+3 a a L 40
+16 a b L 52
+9 a a S 43
+59 b b S 12
+35 b a L 13
+5 b a L 55
+2 a a S 4
+35 a a L 12
+14 a a S 49
+41 b b L 4
+47 a b L 56
+4 b a S 67
+36 b a S 58
+60 b _ S 5
+29 b a L 0
+55 b b L 23
+10 a a S 49
+5 b a L 14
+55 a b L 27
+32 b a S 12
+3 a b L 48
+6 b b S 24
+57 b a L 0
+22 b b L 45
+62 a a L 1
+39 a b L 48
+19 a a S 43
+53 a a S 48
+61 a b S 11
+64 b b S 17
+61 b a S 3
+27 a b S 9
+65 b a S 46
+38 a a L 23
+23 b b S 59
+47 b b L 33
+51 a a S 66
+62 b a L 23
+58 a b L 3
+27 b b S 18
+6 _ a L 13
+54 b a L 25
+29 a b L 36
+56 b a L 29
+24 a a L 47
+55 a a S 36
+1 a b L 1
+2 b b S 2
+3 b b L 3
+4 b a L 4
+5 a a S 5
+6 b a L 6
+8 b a S 8
+9 _ a S 9
+10 b a S 10
+11 a b L 11
+12 b a L 12
+13 a a S 13
+15 a b L 15
+16 b b L 16
+17 a a S 17
+18 b b L 18
+19 a a S 19
+20 b a S 20
+21 b a L 21
+22 b b L 22
+23 b b S 23
+24 a b S 24
+25 b b L 25
+27 a b L 27
+28 a b L 28
+29 a b L 29
+30 b a L 30
+31 a a L 31
+32 a b S 32
+34 b a L 34
+35 b a S 35
+36 b a S 36
+37 a a S 37
+38 b a L 38
+39 a a S 39
+41 b b S 41
+42 a b L 42
+44 b a L 44
+45 a b S 45
+47 a b S 47
+48 b a S 48
+50 b b S 50
+51 b a S 51
+52 a a S 52
+53 b a L 53
+54 a a S 54
+56 a a S 56
+57 a b L 57
+58 _ a L 58
+59 a _ L 59
+60 a a L 60
+61 b b L 61
+63 b b S 63
+66 b b L 66
+67 b a L 67
+68 a b S 68
+39 a a L 0
+34 b a L 1
+36 a a L 2
+18 b b S 3
+19 b a S 4
+61 b a S 5
+33 b a S 6
+2 b b S 7
+50 b b L 8
+38 b a S 9
+21 b b L 10
+40 b a S 11
+45 b b L 12
+40 b a L 13
+23 b a L 14
+24 b b L 15
+29 a b S 16
+12 b b L 17
+33 a a S 18
+52 b b S 19
+21 b b S 20
+62 b a S 21
+7 b b L 22
+4 _ b L 23
+63 a a S 24
+55 b a L 25
+38 a a S 26
+5 a b S 27
+49 a a L 28
+33 a b S 29
+11 b a L 30
+31 b b L 31
+44 b a L 32
+47 a b L 33
+58 a b L 34
+5 a b S 35
+59 b a S 36
+20 b a L 37
+65 a b S 38
+17 b b L 39
+4 a b L 40
+30 a b L 41
+2 a b L 42
+59 a a L 43
+16 a b L 44
+32 a b L 45
+13 b a S 46
+30 a a L 47
+11 a a S 48
+63 a a S 49
+22 a a L 50
+45 b a L 51
+60 b b L 52
+55 a b L 53
+46 b b S 54
+14 b b L 55
+11 a b S 56
+9 a a S 57
+39 b b S 58
+17 b b L 59
+58 a a S 60
+66 a b S 61
+26 b b L 62
+40 b a L 63
+57 a a S 64
+45 b b L 65
+5 a a L 66
+63 b a S 67
+45 b _ L 68
+0 a b S 13
+1 a a S 37
+2 b b L 46
+3 b a L 56
+4 a b S 57
+5 a a S 46
+6 b b L 51
+7 b b L 25
+8 a b S 32
+9 b a S 20
+10 b b S 51
+11 a b L 0
+12 b b L 19
+13 b a S 14
+14 b a L 47
+15 a a S 44
+16 a a L 52
+17 b b L 32
+18 b b S 30
+19 a b L 18
+20 b b S 24
+21 b a S 36
+22 b a S 31
+23 a b L 45
+24 b a S 65
+25 a a S 11
+26 a a S 64
+27 a b L 24
+28 b a L 17
+29 a a S 53
+30 a a S 40
+31 b b S 5
+32 a a L 38
+33 a b L 33
+34 b a S 28
+35 a b L 67
+36 b a L 65
+37 b b S 36
+38 b a S 2
+39 _ b S 38
+40 a b S 44
+41 b b L 66
+42 _ b L 55
+44 a b L 5
+45 b a S 10
+46 b b S 11
+47 a a L 30
+48 b a S 53
+49 b a L 36
+50 b b S 52
+51 b b S 43
+52 b b L 21
+53 _ b L 0
+54 b b S 18
+55 a a L 51
+56 b a S 43
+57 a _ S 58
+58 a a L 38
+59 a b L 6
+60 b a S 40
+61 a a S 55
+62 b b S 46
+63 b b L 7
+64 a b L 8
+65 a b L 23
+66 a b L 60
+67 a a L 46
+68 a a L 67
+acc
+43
+max
+90745
+run
+abbbbbabaaabaaabbabaababaabaabaaabababbabaaabaabbababaaaaabbaabababba_aabaababbbaaaabbbabbaaaababbbaabaabbaaababbaab_baabbbabbb_
+babbabbaaabbaaaababababbbababbaabbabbababbbabbbbbbbbbbbaabbaabaabbbaaabaaabbbabbba_babbbbbaaaaaabaaabbaabaabbbbb_abaaaaaaabbabaabb_abaabaabaaababaaaabaababaabbbaaababababaabbbaaabbabbbbbaababbbbbbaa
+baaabaaabaaabaabbbbbaaaabbbbbbbaaaaaabababbaabbbababbababbaabbabbbbabbbbaababbbbbbbaaabaabababbbbabaabaaaaab_bbaaabbbaaabaabbabbabaaaababbbaaaaaabaabbbabaababbabbbbbbbbaaababbaabbaabaaabbbabbbaaaabbababb
+babbbabaabbaabaababababbbababbabbbaababaaa_ababbbababbaaabbbbbb_baaaabbaaaaaaaaababbaabab_abaababbbbaabaaaaababbbbbabaaabbbbbabbbaabababaaabbbabaaabbbaab_ababbbaabaaa_aabaabbaabbabaaabbbabbabbaabab_abbbbbbabaaabbabaaaaabaabaa_aab
+bbaababaabbbbaaabbbabababaaababababaabaaaaabaaabbbaababababbbbabbababababbbab_ababaabbababbabbbbaaaaaaabbaaaabbababbbabababbabaabbbbbabbaaabababbaa
+bababbabaabaaabbaabbaababaababaaaaaaabbaaabbbabbbabbbaaabbabaaabbaabbabbbbbbaaabbbbbabbbaaaaabaaaaaabbaaabbbaaabbaa
+babbabaaaabaaababaabbbbababababbabababababbbabbbbbaaabbbabbababaaaaababbaabbaaaaaabababababbaabbaabbb_aabbaaabaaaababbbbbababbbbaabbbbbbababbaabbababaabaabbbbbabbabaaaaaaba_abaaa_bbbabbbaabbbbbaaaaabbabaabaabaabbbabbbaabbabbbabbaaabbabbaabbbbaabab
+_abaaabbaaabbbbaaaabaaaababb__bbabbbab_bbaaaaaaabbbabb_abaaaaaaaabbaabbababbbaaaabaabababba_abaabbabbbbabbbaaabbbabaabbaaabbbabbabaabba_babbbbaabbbbaba_aabbabaabbbbbbbbbbababaabababa_babaaaaabaabbbbabbaaaabbaaaabbbbaaaabbbbabaabbbbbabbbaabbaababbaababbbababaabbababbabbaabaabaabbbbbaabbabbab
+babaaaabaabbabababbaaabbbaaaaaaaababbaababbaabbbbbaaaabbaabbbbbbbababbaaaaaababaababaaabbaa_aababbbabbaababbabaaaaabbaaba_bbababaabbbaababaaaaabbaaaab
+abababaaaabbababbababbabbaababbbbbaaabbbabbabbbabbbbbbbaabbaaaaaaabbababbbaabaabbabbabbabbbabbaabaabbbbabbaababaaaaabaab_bbabbabaaababbbaabbbaaaa_bbbbbbbaabaaabbbbbbbababa_aababbbbaaaaaabbbbbabaaaaababbabaababaabbbbabaaabbbaaaaabbbaaababbabaabbbabbaaabbbbab
+bbbbbbabbbabbaabbabaababbaaaabbabababbb_babbbaaaabaabaabaaaaaaaaabbaaaaababbbaabbb_bbbb_abbbaaababbbabbababbbbbaba_abba_
+aaaabaabbbaaabbbaababaabaaaaabababbbbaaabbbabaabbbbaabaaabbabb_ababababa_bbaaaaaba_aaaababbbababaababababbbaabbabababbababbaabbabbbbabbaababaaababaaabbaaaabaaabbabbababaaaabaaaabababbabbabaababaabbbbaabaabbbabaabbbabbabaabbabbbaabbabaaaaababbbababaaabbba
+abbabb_bbabbabbabbbbaaaaabaaabbaabbabababbbbaabbabbabbaabbaababbaabbbbabbbbbaabbabbabbaab_abbaaabaabaaaaabbbbbbabbaabbaabbbbbaabbb_ababababbbabaabbabbbbbbabbaba_abaabbaabbababbbbaaaababbabaabaaababbbaababbbaaaabbabaaabaaababbabaababbabbb_ababbaaaaaaabaaabbbaabaabbbaabbaaaaabba
+bba_bbbaabbbabaabbaaabbaababbabaabbababaabbaaabaabaa_aaaabbabbbabbabbbaabbbaabbabaabaabaaaaabbbbbbabababbaababaaaaabbabbabaabaaabbabaababaabbbaa_baaabababaaabbaaaaaabb
+aaabbabaabbbabbabababbbabaabbaabaabbbbaaaaabbbbaaaabaaabaabababbbbbaabaaaaaababaaaaaabbbbbaabbbaabbaababbb_aaababaababbaaaaababbabbbbbbaaabbbaaabaabbbabb_aabababbbbaaabbaabbba_bbbbaababbbababbaababbaabbaabab_aabbbaabbabaaababbbaaabaabaaaaaaababbaabbbabbbbbb
+aaabbaabbaaaaaabbaaaabbaaaaaabbaaaabbbbaaababbbabaabbabaabbbbaabaabbabbbbabaaaaabbbbbaaaabbabbbbabbbbbbbbbbaaaababbbbbabaaaaabbaaabbbbbbaabbaa
+ababbaabbbbaaababba_baabaabaaabaabbabbbbaaabababbbbbabbaaaaabaabbbbbbaaabbbaaa_bbbaaaababaababbbbaabbaabbbbabbaabbaaaa
+aaabaababbbbabaaabaabbaabbbabaababbababbaaaaaaaababbbbbbbabaabaabaabaabbbbbbabababbaabbbbbbaabababaababbaabaaabbabbbbabab_bbabbabbbaaababbbbbabaaabaabbbabaaaaabaaaaabbbaababaaababbaaababaaaaabababaaabaaabbbbbbaa_abbbbaabbbabbbbaaaabbaaabaabaaabbbabbbbaabaabbbbabbabaaaaba
+bbaaaabbbbababbbababbbbbbbbabbabbabaaaaaabbbbaababbabbbbbaabaabb_aabbabbbbbaabbaababbbbbababbbbbbaaaaaababaabbbabbabaabaaaaaabbbabbaaaababa_baabbbabaaaaaabaaabb_babbbababbabaabbababbbbaabbabaabaaababbbaabbaaab_abbabaa_bbabaabbaabaabbababbaabaabbbbbbaabaaaaabbabaaabaabbaabbaabbaaaba_baaaba
+baabababaaaababbbbaaabbaaaaabaabbbbaaababbabbabbababaabbbbbbababbba_bbaaaabbabaaaaabbbba_aabbbbaababbbabbbaababbaaaaaabbabbbbaabaaaaabbaabbbaabaaabaa_abaabbbbabbbbaaabbabbbbaaaaaabbababbbaabbbbbaababbaaaaaa
+aabbabbbabbaaaabbbbbbabbaaaaabaababba_abaaabaaaaaaaabaabbababbbabbaaaabaaaabbaaaabbaababbaba_bbaaaaa_baabbbbaaabbbbbababbabbbaab
+bbbbaabbaaaaabaabaaabaaaaaababaabbbaabbabbabbaaabbbaab_baababbaabbababababaaaabababbaababbbbbabbbbbaaababbaaaaabbbaaaaabbbaaabb_bbababbbabbbaabbabbbbabbabaabbaaabababbbbbaabbbbaaaababbababbbbabbaabbbba_baaaabaaabbbababbbaabbaabbbbbbbabbbbabbaaaabaaabbbaababbbaaabaaaaaba
+aabbbbbbbbaabbaabbbbbbbaabaababbabbbabaaabaabbbabbbabbaaaaaab_bbbaabbbbbaabb_ababababbaaaabbaaaabbbbaabaabaabbbaababaabbbbaabbabaabbaaabbbaba_aaabaaabbbbaaaaabababbabbbbbabbaaababbbaababbbaaabbbaab
+aaabbabaaabaaabaabbababbaaabaabaabbabbbaaaaabbabaaaabaabbabbbaabaababbaaabbb_abbabbaaabbb_bbabbbaaaabaaababbaaaaabaabababbaaaaabb_babaababbaaa
+babbaaaababaababaaababaaabaaabbababbbaabaaababbabbbbaaabbabbbbbbababbbbaaaaabbbabbbbbabbbbbaabaabababaaaababbbbbabbbaabbaaabbaabbbaaba_babaaaaaabbabbaabbbaababba_aabaaabbbbaabaabaabaababababbbbaab_bbaabbababbaabaabababaabbaabbaaabaabbababbbaaaabaaabbabbabaaababaaabaabbbbababbbaaaabaa
+babbbbaaabababaabbbabaabbabaabbbbbbbbbbaaaaababbaabaabbababaaaaaabbabbabbabaaaaababaaababaaabab_ababbaabaaab_babaabababbbabbabaaaaaaaaabaaaabbabbabbaaaabbababbb_abbbaabaababaaaaababababbababbabbb
+babaabbbabababbaabaabaabaaaabb_aa_aaabaababbabaaababaaaabbbababbbbbabababbaababbababbaabbbb_baaaababbbbaabbbaaaaaabaabbaabbbbbabbbabbabaabbbbbaaabbbaabbabbaaaaaaabbbabbbbbbaaaaababbbbba
+_bbbbaaabababaababbbababbbabaababbabaabbabaabbaabbabbaabaaabbbababbbbababababaaaabaabbbbbababbabaabaaba_bbbaababaaab_abaaaabbaaa_abbbbababbbaaaabababbbbbaaabbbbabbbabbbbabbbbabbabbaabbabbaaabbbaaababbaaaa
+baaabbbabaaaaaabbaabbbaaabb_baabbaaabaaaabbbbbbabbbabbaabbaabaaabaaaaaabbbbaaabbabaabbaaababaa_bbbbaababbabbababbbbabbbbaabaabbaabaaa_aabbaabb_ababbababaaababbababbaabbababbbbabbbabababbbb
+babbbbbabbbababaabbbabababaaabbbaabaa_abab_abaaabbaabbaaababbbbbbaa_bbbababbaabbaabbabbbabaaababababbaabbabbaababbabbaaaaaabbbabaabaab_bbaaaababbbbabbbbbbaabaabbbababbbabbabababaabbaaaabbb_bbaaaaabbaabbaabaabbabbaab
+abababbbaabbbaaabaabbbbabbabbbbbbaabbbaababaabaaaaabbaaaabbabaabbbaaababaababbabbbbaabaaaababbbaab_aaabbbbbabbaaabbabbbababababaaaaabababbabbbaabbbaaaababbbbbbbbbbbaaaabbbaababaaaabbbaaabbabaabaababaaabababaaababbbabb_babbbbbaabbababbaabbaa_aababbbabbababbaabaaabbbbbaabbaaabababababab
+bbbbaabaaabbbabaa_ababbbbaabaaaaabb_aaaaaabbaabbaaabbbbbbbaaabaaabbabbbbbbaabbbbabbbaabaabbaaababaabaabbaaaabbbabaabaaaaabaaaaabaaabaaaaaab_baaabaabaaabbbbaabbaabbbabb_b
+babbaaaabaabababaaaaaaaabaabbabaaaaaaaaaababaaaaabbabbababbbbbabbbbbabbbbabbbbaaaaaaaaaaaaaaaabababaaaaaaabaaaabababbbbbaabaaaabaabaaaababbaaababaaababa
+aaaaabbaabbaaaababaabababbaababbbababbabaaabbbbbbaabababaaaaabbbababbbabbbbaabaaaaabbabaaaabaabababbbbabbbbaaabbabbaabbbaabbab
+aaaabaaaabbababaab_bababaabbabbba_abaaaabbabaaaaababbbbbbbbbbbbababaaaabbbaaabaabaaabbbabbabbbbbbbaaaabaaabbaabbbbbbaabbabbbabbaabbabaabbbaaaababbaabbbbaa_bbbb
+aabaabbbaababbaabbaaababaaabbbabaabbaabbaabababbaaababbaabaababaaabbabbbbbbabbb_baabaababbaabbbb_ababaabbabaaaabbabbababababababababaaabbbbaabbba_babbb_bbbaaa_baababbabbababaaaabbabba_abaaabaabbaabbabbabbbaabaabbbaaaabaaaba_baabbaabbabbbbbbbaaabaaabbbaabaaaaaaabaababaaabaaabbaaabbaaba
+bbbbaabaabbaaaaabbbabbaaa_bbaabaabbbaabbababababbaabbbaaabaaaaaababbaaababaaabaabbbbbaababbbabbbaaababaaabbabaabbabbbbbaaabbbba
+abbbababbbbababbabbbaabbaabbbbabbbbbabbbbbbbabbbaaaa__bababababbabbabaaaaaabaaabaabbaabaaaaabbbbaabbbbbabbbbbbabbbbbbababbaabaabbbabbbaaaabbbbaabbaaaababaaabbaabbbbb_bbbababa_abbaaabaabaaabbaaaaabbbbaaabaa_aababbaa_abababaabaaabaaaababbbbabbbbbba
+ababbbbaabaabababaaabbaaabbbbaabaaabbbbbabaababaaabbbaabaaabbaababbabbbaaaabbbbabaaabababaabbaababbbabbaaabaababaababab
+abbaabbaaaabaabaaaababbabaabbaaabababaabbbbbabbabaabbabbaabbbbabaaababbbbaaababbabbbbbaababbbabaaaaabbbbaabaabaabbaaabaababaabaabaaaaabbbbbbbbaaabbbbabbaaabbbaaababbbabbaabaabaaabbbbbbbaabaabbbbaabaabbbabbab_aaabbaaabbabbbabbbabb_aabbbbaabbbababbababbabbbbaabaaab_abaaaaaaabaababababab
+baab_baababbbaabbaababbbabababaabbabbaabaabbbbbbbbbababaabbababbb_baababababbbbbaabbbbabbbabaaabaaabbaaaabaaabaabaaabbbaabaabbbaaabbbbbbaaaabbbababbbabaaabaaabbabaabbbabbbabaaaaaaaabbbaabaabbabaabbab_bbabbbbaababbaabaaaaaaaaaab
